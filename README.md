@@ -7,4 +7,4 @@ Queen attack is an andela Developer challenge
 - Diagonally
 - Horizontally
 
-Check out the Demo here [Here](https://zemchuks.github.io/queen-Attack-Andela-project-/)
+Check out the Demo here [Here](https://zemchuks.github.io/queenAttack-Andela-dev-challenge-/)
